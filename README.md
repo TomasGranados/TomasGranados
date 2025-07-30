@@ -154,8 +154,6 @@ Herramientas: Git, Docker, VS Code, Figma
     <a href="#"><img src="https://img.shields.io/badge/manjaro-%2335BF5C.svg?&style=plastic&logo=manjaro&logoColor=white" /></a>
 </p>
 
-<br> 
-
 ---
 
 <p align = "center">
