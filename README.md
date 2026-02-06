@@ -4,10 +4,9 @@
 - 🔭 I’m currently working on FIH Mexico Industry<br>
 - 🌱 I’m currently learning at [TripleTen LaTam](https://tripleten.com/) as Software QA Tester.<br>
 🛠️ Tecnologías y Habilidades
-Frontend: HTML5, CSS3, JavaScript, React, Vue.js
-Backend: Node.js, Python, Express.js
-Bases de datos: MongoDB, MySQL, PostgreSQL
-Herramientas: Git, Docker, VS Code, Figma
+Backend: Python, 
+Bases de datos: MySQL
+Herramientas: Git, Figma
 - 📫 How to reach me: Tomas.Granados@Gmail.com<br>
 - 😄 Pronouns: He/Him.
 ## 🌐 Socials:
